@@ -1,4 +1,4 @@
-🛡️ ProxyGuard
+## 🛡️ ProxyGuard
 
 ![ProxyGuard Banner](https://i.imgur.com/v587jYm.jpeg)
 
