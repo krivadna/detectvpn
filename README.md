@@ -18,3 +18,4 @@ Real-time VPN and proxy detection service with enterprise-grade security 🚀
   - Low latency responses
   - 99.9% uptime guarantee
 
+https://sub1.kalkikrivadna.com:5000
