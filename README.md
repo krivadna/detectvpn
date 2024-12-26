@@ -1,4 +1,6 @@
-# 🛡️ ProxyGuard
+🛡️ ProxyGuard
+
+![ProxyGuard Banner](https://i.imgur.com/v587jYm.jpeg)
 
 Real-time VPN and proxy detection service with enterprise-grade security 🚀
 
@@ -19,3 +21,4 @@ Real-time VPN and proxy detection service with enterprise-grade security 🚀
   - 99.9% uptime guarantee
 
 https://sub1.kalkikrivadna.com:5000
+
