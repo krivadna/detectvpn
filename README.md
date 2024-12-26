@@ -21,5 +21,5 @@ Real-time VPN and proxy detection service with enterprise-grade security 🚀
   - 99.9% uptime guarantee
 
 🌐 Access :
-🔗 sub1.kalkikrivadna.com:5000
+🔗 https://sub1.kalkikrivadna.com:5000
 
