@@ -1,25 +1,21 @@
-## 🛡️ ProxyGuard by Cyber Kalki
+# 🛡️ Secure Network Access Terminal by Cyber Kalki
 
 ![ProxyGuard Banner](https://i.imgur.com/v587jYm.jpeg)
 
 Real-time VPN and proxy detection service with enterprise-grade security 🚀
 
+Script for detecting and blocking VPN, proxy, and suspicious network connections with a retro-styled interface.
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.6%2B-blue)
+
 ## ✨ Features
 
-- 🔍 Real-time detection of:
-  - VPNs & Proxies
-  - SOCKS4/4a & SOCKS5/5h
-  - TOR exit nodes
-  - Mysterium Network nodes
-  - Web proxies
-  - Compromised servers
+- 🔍 Detects VPNs, proxies, compromised servers and suspicious connections
+- 🌐 SOCKS4/4a & SOCKS5/5h detection
+- 🧅 TOR network node identification
+- 🔒 SSL/TLS encryption with Let's Encrypt
+- 🎯 Real-time IP & User Agent analysis
+- 🚨 Visual and audio alerts for threats
 
-- 🔒 Enterprise Security:
-  - HTTPS/SSL/TLS encryption
-  - Regular database updates
-  - Low latency responses
-  - 99.9% uptime guarantee
-
-🌐 Access :
-🔗 https://sub1.kalkikrivadna.com:5000
 
