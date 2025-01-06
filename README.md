@@ -7,8 +7,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberkalki.subdomain-scanner)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
-
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 
 ## ✨ Features
