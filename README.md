@@ -79,3 +79,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
 Contact for pricing and custom implementations.
+
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
