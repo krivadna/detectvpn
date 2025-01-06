@@ -10,12 +10,13 @@ Script for Real-time detecting and blocking VPN, proxy, and suspicious network c
 ## ✨ Features
 
 - 🔍 Detects VPNs, proxies, compromised servers and suspicious connections
-- 🌐 SOCKS4/4a & SOCKS5/5h detection
-- 🧅 TOR network node identification
-- 🔒 SSL/TLS encryption with Let's Encrypt
-- 🎯 Real-time IP & User Agent analysis
-- 🚨 Visual and audio alerts for threats
-
+- 🌐 SOCKS proxy identification
+- 🧅 TOR exit node detection
+- 🔒 SSL/TLS encryption
+- 🎯 Real-time threat analysis
+- 🚨 Customizable alert system
+- 📊 Access pattern monitoring
+- 🔄 Easy integration with existing systems
 
 ## 🎯 Target Markets
 
@@ -35,16 +36,6 @@ Script for Real-time detecting and blocking VPN, proxy, and suspicious network c
 - Maintain fair access to limited-availability services
 - Monitor and audit network access patterns
 
-## ✨ Features
-
-- 🔍 Enterprise VPN detection system
-- 🌐 SOCKS proxy identification
-- 🧅 TOR exit node detection
-- 🔒 SSL/TLS encryption
-- 🎯 Real-time threat analysis
-- 🚨 Customizable alert system
-- 📊 Access pattern monitoring
-- 🔄 Easy integration with existing systems
 
 ## 💰 Business Benefits
 
