@@ -16,12 +16,6 @@ Script for Real-time detecting and blocking VPN, proxy, and suspicious network c
 - 🎯 Real-time IP & User Agent analysis
 - 🚨 Visual and audio alerts for threats
 
-# 🛡️ Secure Network Access Terminal
-
-An enterprise-grade cybersecurity demonstration tool for detecting and blocking VPN access.
-
-![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 
 ## 🎯 Target Markets
 
