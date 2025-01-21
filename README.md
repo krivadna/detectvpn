@@ -1,6 +1,6 @@
 # 🛡️ Secure Network Access Terminal by Cyber Kalki
 
-![ProxyGuard Banner](https://i.imgur.com/v587jYm.jpeg)
+![ProxyGuard Banner](https://i.imgur.com/FIsb4XM.jpeg)
 
 > 🚀 Script for Real-time detecting and blocking VPN, proxy, and suspicious network connections with a retro-styled interface and enterprise-grade security 
 
